@@ -1,5 +1,0 @@
-django
-djangorestframework
-faker
-djangorestframework-simplejwt
-requests
